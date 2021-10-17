@@ -1,7 +1,7 @@
 # What is it #
 Emulation code for TIC-TAC-TOE on an atmega microcontroller
 
-# GCCapplication1 #
+## GCCapplication1 ##
 
 This is were all the important programs are located
 
